@@ -1,4 +1,4 @@
-remjack
+remjack vDemo.0.1
 
 remjack is a remote controller for a linux PC. It's created with the purpose of making some jokes
 here and there, no malicious purposes.
